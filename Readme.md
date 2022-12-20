@@ -6,7 +6,7 @@ This is an unofficial clone of **[Torrent-AIO-Bot](https://github.com/patheticGe
 
 If you like to make your own version of [this mod](https://github.com/Itz-fork/Torrent-Aio-Bot-Duplicate), just click on "Deploy to Heroku" button 👇:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Itz-fork/Torrent-Aio-Bot-Duplicate)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/itzrexmodz/Torrent-Aio-Bot-Duplicate)
 
 
 ## Configs 📓
